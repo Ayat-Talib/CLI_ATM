@@ -1,6 +1,6 @@
 {
   "name": "ay01_cli_atm",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "An ATM based on Inquirer module",
   "main": "index.js",
   "type": "module",
